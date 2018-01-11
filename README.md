@@ -1,1 +1,1 @@
-This was built to prove that I could connect to a local instance of MongoDB.
+This was built to prove that I could connect to a local instance of MongoDB and query some existing information.  I was also able to iterate through results once I realized that a cursor gets returned and you need to iterate through that to get your information.
